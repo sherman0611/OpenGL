@@ -1,1 +1,2 @@
 C:\OpenGL\OpenGLSetup\x64\Debug\OpenGLSetup.exe
+C:\OpenGL\x64\Debug\OpenGLSetup.exe
